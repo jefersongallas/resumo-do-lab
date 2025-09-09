@@ -1,0 +1,31 @@
+Este repositório contém um resumo da segunda parte do bootcamp da DIO com foco no **Microsoft Azure**
+
+## 🌐 Benefícios da Nuvem Azure
+O Microsoft Azure oferece uma plataforma global de serviços em nuvem, trazendo vantagens como:
+
+- Ampla rede de data centers distribuídos pelo mundo.
+- Suporte a diferentes linguagens, frameworks e sistemas operacionais.
+- Modelos de pagamento flexíveis, de acordo com o uso.
+- Alta disponibilidade, escalabilidade e segurança.
+
+## 📈 Escalabilidade e Elasticidade
+- **Escalabilidade** – capacidade de aumentar ou reduzir recursos conforme a necessidade de forma manual ou automática.  
+- **Elasticidade** – adaptação rápida e automática da infraestrutura, acompanhando a demanda em tempo real.  
+
+🔹 Isso garante performance estável, sem desperdício de recursos.
+
+## 🔒 Confiabilidade, Previsibilidade e Segurança
+- **Confiabilidade** – serviços de alta disponibilidade e redundância.  
+- **Previsibilidade** – custos controlados com modelos de cobrança transparente.  
+- **Segurança** – recursos avançados de proteção, como criptografia, controle de identidade e conformidade regulatória.  
+
+🔹 A nuvem Azure segue normas internacionais de segurança e compliance.
+
+## 🛠️ Governança e Gerenciabilidade
+- **Governança** – permite estabelecer políticas de uso, controle de custos e conformidade.  
+- **Gerenciabilidade** – monitoramento em tempo real, automação de tarefas e relatórios detalhados sobre recursos e aplicações.  
+
+🔹 O Azure fornece ferramentas nativas como **Azure Policy**, **Azure Monitor** e **Azure Cost Management**.
+
+## 🚀 Conclusão
+O Azure traz uma série de benefícios que ajudam empresas a serem mais ágeis, seguras e eficientes, reduzindo custos e aumentando a inovação.
