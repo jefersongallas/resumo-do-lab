@@ -1,0 +1,43 @@
+# ☁️ Modelos de Serviço e Responsabilidade na Azure
+
+Este resumo aborda sobre os últimos tópicos do bootcamp sobre nuvens no Microsoft Azure
+
+## ⚙️ Modelos de Serviço: IaaS, PaaS e SaaS
+
+### 🔹 IaaS (Infrastructure as a Service)
+- Fornece infraestrutura básica: servidores, armazenamento e redes.  
+- O cliente é responsável pelo sistema operacional, aplicativos e dados.  
+- Exemplo no Azure: **Máquinas Virtuais (VMs)**.
+
+### 🔹 PaaS (Platform as a Service)
+- Fornece ambiente completo para desenvolvimento e execução de aplicações.  
+- O provedor gerencia infraestrutura e sistema operacional.  
+- O cliente foca apenas no **código e dados**.  
+- Exemplo no Azure: **App Service**.
+
+### 🔹 SaaS (Software as a Service)
+- Aplicações prontas fornecidas como serviço, acessadas pela internet.  
+- O provedor gerencia tudo (infraestrutura, plataforma e software).  
+- Exemplo no Azure: **Microsoft 365**.
+
+## 🛡️ Modelo de Responsabilidade Compartilhada
+No Azure, a **segurança e gestão** dos recursos são divididas entre **provedor de nuvem (Microsoft)** e **cliente**:
+
+- **Responsabilidade da Microsoft**:
+  - Infraestrutura física (datacenters, rede, hardware).
+  - Segurança física e disponibilidade global.
+
+- **Responsabilidade do Cliente**:
+  - Controle de acesso (usuários, senhas, MFA).
+  - Configuração e gerenciamento dos dados e aplicativos.
+  - Políticas de segurança e conformidade de uso.
+
+🔹 O nível de responsabilidade varia conforme o modelo de serviço:
+- **IaaS** → maior responsabilidade do cliente.  
+- **PaaS** → responsabilidade equilibrada.  
+- **SaaS** → maior responsabilidade do provedor.  
+
+## 🚀 Conclusão
+- **IaaS, PaaS e SaaS** definem até onde vai a responsabilidade do cliente e do provedor.  
+- O **modelo de responsabilidade compartilhada** garante clareza sobre quem cuida de cada parte.  
+- Compreender esses conceitos é essencial para adotar soluções em nuvem de forma segura e eficiente.
